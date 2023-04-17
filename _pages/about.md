@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,25 +10,10 @@ redirect_from:
 
 Hello, I am Yu Zhou, a Ph.d student in Inria lille & Centrale lille. My supervisors are Andrey Polyakov and Gang Zheng.
 
-A data-driven personal website
+Research interests:
 ======
+homogeneous system and control
+attitude control;
+aerial robot and mobile robot control
 
 
-Getting started
-======
-
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
-
-
-**Markdown generator**
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
