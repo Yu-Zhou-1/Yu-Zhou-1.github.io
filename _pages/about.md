@@ -12,8 +12,8 @@ Hello, I am Yu Zhou, a Ph.d student in Inria lille & Centrale lille. My supervis
 
 Research interests:
 ======
-homogeneous system and control
-attitude control;
-aerial robot and mobile robot control
+homogeneous system and control\
+attitude control\
+aerial robot and mobile robot control\
 
 
